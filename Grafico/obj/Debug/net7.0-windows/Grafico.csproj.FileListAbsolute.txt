@@ -1,0 +1,106 @@
+C:\Users\Kotaka\Downloads\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.AssemblyReference.cache
+C:\Users\Kotaka\Downloads\Grafico\obj\Debug\net7.0-windows\Grafico.frmGrafico.resources
+C:\Users\Kotaka\Downloads\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.GenerateResource.cache
+C:\Users\Kotaka\Downloads\Grafico\obj\Debug\net7.0-windows\Grafico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotaka\Downloads\Grafico\obj\Debug\net7.0-windows\Grafico.AssemblyInfoInputs.cache
+C:\Users\Kotaka\Downloads\Grafico\obj\Debug\net7.0-windows\Grafico.AssemblyInfo.cs
+C:\Users\Kotaka\Downloads\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.CoreCompileInputs.cache
+C:\Users\Kotaka\Downloads\Grafico\bin\Debug\net7.0-windows\Grafico.exe
+C:\Users\Kotaka\Downloads\Grafico\bin\Debug\net7.0-windows\Grafico.deps.json
+C:\Users\Kotaka\Downloads\Grafico\bin\Debug\net7.0-windows\Grafico.runtimeconfig.json
+C:\Users\Kotaka\Downloads\Grafico\bin\Debug\net7.0-windows\Grafico.dll
+C:\Users\Kotaka\Downloads\Grafico\bin\Debug\net7.0-windows\Grafico.pdb
+C:\Users\Kotaka\Downloads\Grafico\obj\Debug\net7.0-windows\Grafico.dll
+C:\Users\Kotaka\Downloads\Grafico\obj\Debug\net7.0-windows\refint\Grafico.dll
+C:\Users\Kotaka\Downloads\Grafico\obj\Debug\net7.0-windows\Grafico.pdb
+C:\Users\Kotaka\Downloads\Grafico\obj\Debug\net7.0-windows\Grafico.genruntimeconfig.cache
+C:\Users\Kotaka\Downloads\Grafico\obj\Debug\net7.0-windows\ref\Grafico.dll
+C:\Users\Kotaka\Downloads\Grafico\Grafico\bin\Debug\net7.0-windows\Grafico.exe
+C:\Users\Kotaka\Downloads\Grafico\Grafico\bin\Debug\net7.0-windows\Grafico.deps.json
+C:\Users\Kotaka\Downloads\Grafico\Grafico\bin\Debug\net7.0-windows\Grafico.runtimeconfig.json
+C:\Users\Kotaka\Downloads\Grafico\Grafico\bin\Debug\net7.0-windows\Grafico.dll
+C:\Users\Kotaka\Downloads\Grafico\Grafico\bin\Debug\net7.0-windows\Grafico.pdb
+C:\Users\Kotaka\Downloads\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.AssemblyReference.cache
+C:\Users\Kotaka\Downloads\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.frmGrafico.resources
+C:\Users\Kotaka\Downloads\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.GenerateResource.cache
+C:\Users\Kotaka\Downloads\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotaka\Downloads\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.AssemblyInfoInputs.cache
+C:\Users\Kotaka\Downloads\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.AssemblyInfo.cs
+C:\Users\Kotaka\Downloads\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.CoreCompileInputs.cache
+C:\Users\Kotaka\Downloads\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.dll
+C:\Users\Kotaka\Downloads\Grafico\Grafico\obj\Debug\net7.0-windows\refint\Grafico.dll
+C:\Users\Kotaka\Downloads\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.pdb
+C:\Users\Kotaka\Downloads\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.genruntimeconfig.cache
+C:\Users\Kotaka\Downloads\Grafico\Grafico\obj\Debug\net7.0-windows\ref\Grafico.dll
+F:\Estrutura De Dados\Grafico\Grafico\bin\Debug\net7.0-windows\Grafico.exe
+F:\Estrutura De Dados\Grafico\Grafico\bin\Debug\net7.0-windows\Grafico.deps.json
+F:\Estrutura De Dados\Grafico\Grafico\bin\Debug\net7.0-windows\Grafico.runtimeconfig.json
+F:\Estrutura De Dados\Grafico\Grafico\bin\Debug\net7.0-windows\Grafico.dll
+F:\Estrutura De Dados\Grafico\Grafico\bin\Debug\net7.0-windows\Grafico.pdb
+F:\Estrutura De Dados\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.AssemblyReference.cache
+F:\Estrutura De Dados\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.frmGrafico.resources
+F:\Estrutura De Dados\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.Properties.Resources.resources
+F:\Estrutura De Dados\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.GenerateResource.cache
+F:\Estrutura De Dados\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estrutura De Dados\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.AssemblyInfoInputs.cache
+F:\Estrutura De Dados\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.AssemblyInfo.cs
+F:\Estrutura De Dados\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.CoreCompileInputs.cache
+F:\Estrutura De Dados\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.dll
+F:\Estrutura De Dados\Grafico\Grafico\obj\Debug\net7.0-windows\refint\Grafico.dll
+F:\Estrutura De Dados\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.pdb
+F:\Estrutura De Dados\Grafico\Grafico\obj\Debug\net7.0-windows\Grafico.genruntimeconfig.cache
+F:\Estrutura De Dados\Grafico\Grafico\obj\Debug\net7.0-windows\ref\Grafico.dll
+F:\Estrutura De Dados\Grafico\bin\Debug\net7.0-windows\Grafico.exe
+F:\Estrutura De Dados\Grafico\bin\Debug\net7.0-windows\Grafico.deps.json
+F:\Estrutura De Dados\Grafico\bin\Debug\net7.0-windows\Grafico.runtimeconfig.json
+F:\Estrutura De Dados\Grafico\bin\Debug\net7.0-windows\Grafico.dll
+F:\Estrutura De Dados\Grafico\bin\Debug\net7.0-windows\Grafico.pdb
+F:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.AssemblyReference.cache
+F:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.frmGrafico.resources
+F:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.Properties.Resources.resources
+F:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.GenerateResource.cache
+F:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.AssemblyInfoInputs.cache
+F:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.AssemblyInfo.cs
+F:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.CoreCompileInputs.cache
+F:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.dll
+F:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\refint\Grafico.dll
+F:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.pdb
+F:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.genruntimeconfig.cache
+F:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\ref\Grafico.dll
+H:\Estrutura De Dados\Grafico\bin\Debug\net7.0-windows\Grafico.dll
+H:\Estrutura De Dados\Grafico\bin\Debug\net7.0-windows\Grafico.exe
+H:\Estrutura De Dados\Grafico\bin\Debug\net7.0-windows\Grafico.deps.json
+H:\Estrutura De Dados\Grafico\bin\Debug\net7.0-windows\Grafico.runtimeconfig.json
+H:\Estrutura De Dados\Grafico\bin\Debug\net7.0-windows\Grafico.pdb
+H:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.AssemblyReference.cache
+H:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.frmGrafico.resources
+H:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.Properties.Resources.resources
+H:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.GenerateResource.cache
+H:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.GeneratedMSBuildEditorConfig.editorconfig
+H:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.AssemblyInfoInputs.cache
+H:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.AssemblyInfo.cs
+H:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.CoreCompileInputs.cache
+H:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.dll
+H:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\refint\Grafico.dll
+H:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.pdb
+H:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.genruntimeconfig.cache
+H:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\ref\Grafico.dll
+E:\Estrutura De Dados\Grafico\bin\Debug\net7.0-windows\Grafico.exe
+E:\Estrutura De Dados\Grafico\bin\Debug\net7.0-windows\Grafico.deps.json
+E:\Estrutura De Dados\Grafico\bin\Debug\net7.0-windows\Grafico.runtimeconfig.json
+E:\Estrutura De Dados\Grafico\bin\Debug\net7.0-windows\Grafico.dll
+E:\Estrutura De Dados\Grafico\bin\Debug\net7.0-windows\Grafico.pdb
+E:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.AssemblyReference.cache
+E:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.frmGrafico.resources
+E:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.Properties.Resources.resources
+E:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.GenerateResource.cache
+E:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.AssemblyInfoInputs.cache
+E:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.AssemblyInfo.cs
+E:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.csproj.CoreCompileInputs.cache
+E:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.dll
+E:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\refint\Grafico.dll
+E:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.pdb
+E:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\Grafico.genruntimeconfig.cache
+E:\Estrutura De Dados\Grafico\obj\Debug\net7.0-windows\ref\Grafico.dll
