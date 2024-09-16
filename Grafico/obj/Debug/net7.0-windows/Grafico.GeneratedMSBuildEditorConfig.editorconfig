@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Grafico
-build_property.ProjectDir = D:\Estrutura De Dados\Grafico\
+build_property.ProjectDir = C:\Users\u22129\Documents\GitHub\Paint-In-Csharp-Forms\Grafico\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

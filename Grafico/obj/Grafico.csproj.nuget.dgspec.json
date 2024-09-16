@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estrutura De Dados\\Grafico\\Grafico.csproj": {}
+    "C:\\Users\\u22129\\Documents\\GitHub\\Paint-In-Csharp-Forms\\Grafico\\Grafico.csproj": {}
   },
   "projects": {
-    "D:\\Estrutura De Dados\\Grafico\\Grafico.csproj": {
+    "C:\\Users\\u22129\\Documents\\GitHub\\Paint-In-Csharp-Forms\\Grafico\\Grafico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estrutura De Dados\\Grafico\\Grafico.csproj",
+        "projectUniqueName": "C:\\Users\\u22129\\Documents\\GitHub\\Paint-In-Csharp-Forms\\Grafico\\Grafico.csproj",
         "projectName": "Grafico",
-        "projectPath": "D:\\Estrutura De Dados\\Grafico\\Grafico.csproj",
-        "packagesPath": "C:\\Users\\u22144\\.nuget\\packages\\",
-        "outputPath": "D:\\Estrutura De Dados\\Grafico\\obj\\",
+        "projectPath": "C:\\Users\\u22129\\Documents\\GitHub\\Paint-In-Csharp-Forms\\Grafico\\Grafico.csproj",
+        "packagesPath": "C:\\Users\\u22129\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\u22129\\Documents\\GitHub\\Paint-In-Csharp-Forms\\Grafico\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\u22144\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\u22129\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0-windows"
+          "net8.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0-windows7.0": {
-            "targetAlias": "net7.0-windows",
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows7.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net7.0-windows7.0": {
-          "targetAlias": "net7.0-windows",
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows7.0",
           "imports": [
             "net461",
             "net462",
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
